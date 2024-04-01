@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    outline: none;
+}
+html {
+    font-family: 'Montserrat', sans-serif;
+    background: #202020;
+
+}
+body {
+    overflow-x: hidden;
+    background: url('/img/got.png') center no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    min-height: 800px;	
+    /* max-width: 100%; */
+}

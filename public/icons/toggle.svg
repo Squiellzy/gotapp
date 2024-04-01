@@ -1,0 +1,27 @@
+<svg width="98" height="98" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 5">
+<g id="Rectangle 133" filter="url(#filter0_d_48_79)">
+<path d="M73 15H25V39L49 63L73 39V15Z" fill="#4BD2FF"/>
+</g>
+<g id="refresh">
+<mask id="mask0_48_79" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="33" y="19" width="32" height="32">
+<rect id="Bounding box" x="33" y="19" width="32" height="32" fill="#202020"/>
+</mask>
+<g mask="url(#mask0_48_79)">
+<path id="refresh_2" d="M49 45.6666C46.0223 45.6666 43.5 44.6333 41.4334 42.5666C39.3667 40.5 38.3334 37.9778 38.3334 35C38.3334 32.0222 39.3667 29.5 41.4334 27.4333C43.5 25.3666 46.0223 24.3333 49 24.3333C50.5334 24.3333 52 24.65 53.4 25.2833C54.8 25.9166 56 26.8222 57 28V24.3333H59.6667V33.6666H50.3334V31H55.9334C55.2223 29.7555 54.25 28.7778 53.0167 28.0666C51.7834 27.3555 50.4445 27 49 27C46.7778 27 44.8889 27.7778 43.3334 29.3333C41.7778 30.8889 41 32.7778 41 35C41 37.2222 41.7778 39.1111 43.3334 40.6666C44.8889 42.2222 46.7778 43 49 43C50.7112 43 52.2556 42.5111 53.6334 41.5333C55.0112 40.5555 55.9778 39.2666 56.5334 37.6666H59.3334C58.7112 40.0222 57.4445 41.9444 55.5334 43.4333C53.6223 44.9222 51.4445 45.6666 49 45.6666Z" fill="#202020"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_48_79" x="0" y="0" width="98" height="98" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="12.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.293333 0 0 0 0 0.824288 0 0 0 0 1 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_48_79"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_48_79" result="shape"/>
+</filter>
+</defs>
+</svg>

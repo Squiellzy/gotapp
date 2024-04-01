@@ -1,0 +1,21 @@
+.item-details {
+    margin-top: 32px;
+    border-radius: 16px;
+    background: #202020;
+    box-shadow: 0px 10px 25px 0px rgba(75, 210, 255, 0.20);
+    padding: 25px 25px 15px 25px;
+    margin-bottom: 40px;
+}
+
+.item-details h4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.item-details hr {
+    width: 100%;
+}
+.select-error {
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+}

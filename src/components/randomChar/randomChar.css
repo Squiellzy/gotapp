@@ -1,0 +1,55 @@
+.random-block {
+    margin-top: 32px;
+    width: 526px;
+    height: 326px;
+    border-radius: 16px;
+    background: #202020;
+    box-shadow: 0px 10px 25px 0px rgba(75, 210, 255, 0.20);
+    transform: scale(1);
+    padding: 11px 0  0 22px;
+}
+.random-block h4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.name {
+    color:#4BD2FF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; 
+}
+.term {
+    font-weight: 600;
+    margin-right: 27px;
+}
+.random-block.active {
+    transform: scale(0);
+}
+.list-item{
+    display: block;
+    background-color: #202020;
+    color:#D9D9D9;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-right: 27px;
+}
+.list-item .unknown {
+    color: #464646;
+}
+hr {
+    width: 488px;
+    height: 1px;
+    background: #464646;
+}
+@media screen and (max-width: 576px) {
+    .random-block {
+        width: 100%;
+    }
+    .random-block hr {
+        width: 100%;
+    }
+}
